@@ -13,13 +13,13 @@ npm start
 ```
 
 ### Home Page
-<img src="./images/home.png">
+<img src="./image/home.png">
 
 ### Blog Page
-<img src="./images/blog.png">
+<img src="./image/blog.png">
 
 ### Create Blog Page
-<img src="./images/create.png">
+<img src="./image/create.png">
 
 ### Not Found 404 Page
-<img src="./images/not-found.png">
+<img src="./image/not-found.png">
