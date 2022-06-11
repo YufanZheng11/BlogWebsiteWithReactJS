@@ -1,6 +1,6 @@
 # Dojo Blog Website From React JS
 
-### How to launch the application
+## How to launch the application
 
 To start the blog data simple json **server**
 ```
@@ -11,6 +11,8 @@ To start the blog **front end UI**
 ```
 npm start
 ```
+
+## Blog Screenshots
 
 ### Home Page
 <img src="./image/home.png">
